@@ -49,7 +49,7 @@ end
 
 # caching
 
-gem "dalli" # memcached
+gem "dalli" , ">= 3.2.3" # memcached
 gem "memcachier"
 
 group :development do
