@@ -4,7 +4,7 @@ ruby "2.4.2"
 
 gem "airbrake"
 gem "apartment"
-gem "audited"
+gem "audited", ">= 5.3.3"
 gem "aws-sdk"
 gem "bitters"
 gem "bourbon"
